@@ -8,7 +8,7 @@
 
 <p align="center">🦉 ⋆｡°✩ 🦉 ⋆｡°✩ 🦉</p>
 
-## 🌸 ✧ dear people on the internet...
+## 🌸 ✧ dear diary...
 
 hi… i'm owlyn.  
 i'm just starting my journey into coding, coming from a background in microbiology and slowly finding my place in bioinformatics.
@@ -99,6 +99,9 @@ just… build things that matter ✧
   <a href="https://www.instagram.com/c_olyn/">
     <img src="https://img.shields.io/badge/Instagram-EADCF8?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://github.com/frioleraa">
+    <img src="https://img.shields.io/badge/GitHub-F8F0FF?style=for-the-badge&logo=github&logoColor=6D6875"/>
+  </a>
 </p>
 
 ---
@@ -108,7 +111,7 @@ just… build things that matter ✧
 ## 💻 ✧ github corner
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frioleraa&show_icons=true&bg_color=F8F0FF&title_color=C8A2C8&text_color=6D6875&icon_color=B5838D&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frioleraa&show_icons=true&bg_color=F8F0FF&title_color=C8A2C8&text_color=6D6875&icon_color=B5838D&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
