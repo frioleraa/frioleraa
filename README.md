@@ -108,11 +108,11 @@ just… build things that matter ✧
 ## 💻 ✧ github corner
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=F8F0FF&title_color=C8A2C8&text_color=6D6875&icon_color=B5838D&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frioleraa&show_icons=true&bg_color=F8F0FF&title_color=C8A2C8&text_color=6D6875&icon_color=B5838D&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=F8F0FF&title_color=C8A2C8&text_color=6D6875&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frioleraa&layout=compact&bg_color=F8F0FF&title_color=C8A2C8&text_color=6D6875&hide_border=true" />
 </p>
 
 ---
