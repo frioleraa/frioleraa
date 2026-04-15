@@ -1,4 +1,4 @@
-<h1 align="center">✨ hi, i'm owlyn 🦉 ✨</h1>
+<h1 align="center">✨ welcome to owlyn 's 🦉 ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=18&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&width=435&lines=just+me%2C+my+curiosity%2C+and+a+lot+of+code+to+learn+%E2%99%A1" />
@@ -8,13 +8,11 @@
 
 <p align="center">🦉 ⋆｡°✩ 🦉 ⋆｡°✩ 🦉</p>
 
-## 🌸 ✧ dear diary...
+## 🌸 ✧ dear people on the internet...
 
-hi… i'm owlyn.  
-i'm just starting my journey into coding, coming from a background in microbiology and slowly finding my place in bioinformatics.
-
+heyaaa.. i'm owlyn.  
+i'm just starting my journey into coding, coming from a background in microbiology and slowly trying to finding my place in the world of code.
 i've always been curious about how things work — from robotics back in fifth grade to now finally taking the step into code for real.
-
 these days, i'm learning, exploring, and trying to build things that are not just cool, but actually useful — for myself and maybe for others too ✧
 
 ---
@@ -24,7 +22,6 @@ these days, i'm learning, exploring, and trying to build things that are not jus
 ## 💜 ✧ about me
 
 - microbiology graduate stepping into bioinformatics  
-- currently learning python  
 - curious about web development and game development (someday 🌷)  
 - i like building things slowly and understanding them deeply  
 - i believe learning is messy, but worth it  
@@ -41,7 +38,7 @@ these days, i'm learning, exploring, and trying to build things that are not jus
 
 ☾ a night owl forced to be an early bird  
 ☕ tea lover who somehow still needs coffee  
-🎧 cannot live without music while learning  
+🎧 cannot live without music  
 
 ---
 
@@ -51,7 +48,8 @@ these days, i'm learning, exploring, and trying to build things that are not jus
 
 - 🦉 owls (of course)  
 - 🎮 cozy games — *stardew valley* started it all  
-- 🧶 crochet & knitting (basically programming with yarn)  
+- 🧶 crochet & knitting (basically programming with yarn)
+- 📖 escaping into ✧ books and stories ✧ 
 - 🍞 baking sourdough bread  
 - 💜 lavender, lilac, and soft purples  
 
@@ -83,9 +81,9 @@ these days, i'm learning, exploring, and trying to build things that are not jus
 i don’t have everything figured out yet…  
 
 but i know i want to:
-- work in bioinformatics  
+- learn more about bioinformatics
 - create things that are meaningful and useful  
-- explore different kinds of tech (maybe even games someday)  
+- explore different kinds of tech
 
 just… build things that matter ✧  
 
