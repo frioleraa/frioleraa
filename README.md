@@ -12,7 +12,9 @@
 
 heyaaa.. i'm owlyn.  
 i'm just starting my journey into coding, coming from a background in microbiology and slowly trying to finding my place in the world of code.
+
 i've always been curious about how things work — from robotics back in fifth grade to now finally taking the step into code for real.
+
 these days, i'm learning, exploring, and trying to build things that are not just cool, but actually useful — for myself and maybe for others too ✧
 
 ---
