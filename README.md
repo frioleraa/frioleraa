@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=18&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&width=435&lines=just+me%2C+my+curiosity%2C+and+a+lot+of+code+to+learn+%E2%99%A1" />
 </p>
 
----
 
 <p align="center">🦉 ⋆｡°✩ 🦉 ⋆｡°✩ 🦉</p>
 
@@ -17,7 +16,6 @@ i've always been curious about how things work — from robotics back in fifth g
 
 these days, i'm learning, exploring, and trying to build things that are not just cool, but actually useful — for myself and maybe for others too ✧
 
----
 
 <p align="center">🦉 ⋆｡°✩ 🦉 ⋆｡°✩ 🦉</p>
 
@@ -28,8 +26,6 @@ these days, i'm learning, exploring, and trying to build things that are not jus
 - i like building things slowly and understanding them deeply  
 - i believe learning is messy, but worth it  
 
----
-
 <p align="center">🦉 ⋆｡°✩ 🦉 ⋆｡°✩ 🦉</p>
 
 ## 🌙 ✧ currently...
@@ -38,24 +34,19 @@ these days, i'm learning, exploring, and trying to build things that are not jus
 - feeling excited… and a little overwhelmed (but in a good way)  
 - figuring things out one step at a time  
 
-☾ a night owl forced to be an early bird  
+🌕 a night owl forced to be an early bird  
 ☕ tea lover who somehow still needs coffee  
 🎧 cannot live without music  
 
----
 
 <p align="center">🦉 ⋆｡°✩ 🦉 ⋆｡°✩ 🦉</p>
 
 ## 🌼 ✧ things i love
 
-- 🦉 owls (of course)  
-- 🎮 cozy games — *stardew valley* started it all  
+- 🎮 cozy games — *stardew valley* started it all 🍓🫐🌻
 - 🧶 crochet & knitting (basically programming with yarn)
 - 📖 escaping into ✧ books and stories ✧ 
 - 🍞 baking sourdough bread  
-- 💜 lavender, lilac, and soft purples  
-
----
 
 <p align="center">🦉 ⋆｡°✩ 🦉 ⋆｡°✩ 🦉</p>
 
@@ -74,8 +65,6 @@ these days, i'm learning, exploring, and trying to build things that are not jus
 - slowly building both technical and creative skills  
 - open to discovering new tools along the way 🌷  
 
----
-
 <p align="center">🦉 ⋆｡°✩ 🦉 ⋆｡°✩ 🦉</p>
 
 ## 🌈 ✧ dreams & direction
@@ -89,8 +78,6 @@ but i know i want to:
 
 just… build things that matter ✧  
 
----
-
 <p align="center">🦉 ⋆｡°✩ 🦉 ⋆｡°✩ 🦉</p>
 
 ## 💌 ✧ find me here
@@ -103,8 +90,6 @@ just… build things that matter ✧
     <img src="https://img.shields.io/badge/GitHub-F8F0FF?style=for-the-badge&logo=github&logoColor=6D6875"/>
   </a>
 </p>
-
----
 
 <p align="center">🦉 ⋆｡°✩ 🦉 ⋆｡°✩ 🦉</p>
 
@@ -122,8 +107,6 @@ just… build things that matter ✧
 <p align="center">
   still filling this space with future projects... ✧
 </p>
-
----
 
 <p align="center">
   <i>owlyn :)</i>
