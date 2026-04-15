@@ -1,7 +1,7 @@
 <h1 align="center">✨ hi, i'm owlyn 🦉 ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=18&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&width=435&lines=just+me%2C+my+curiosity%2C+and+a+lot+of+code+to+learn+%E2%99%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=18&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&width=435&lines=just+me%2C+my+curiosity%2C+and+a+lot+of+code+to+learn+%E2%99%A1" />
 </p>
 
 ---
@@ -111,11 +111,16 @@ just… build things that matter ✧
 ## 💻 ✧ github corner
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frioleraa&show_icons=true&bg_color=F8F0FF&title_color=C8A2C8&text_color=6D6875&icon_color=B5838D&hide_border=true&count_private=true" />
+  <a href="https://github.com/frioleraa?tab=repositories">
+    <img src="https://img.shields.io/badge/my%20projects-lavender?style=for-the-badge&logo=github&logoColor=6D6875&color=F8F0FF" />
+  </a>
+  <a href="https://github.com/frioleraa?tab=followers">
+    <img src="https://img.shields.io/badge/follow%20my%20journey-CDB4DB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frioleraa&layout=compact&bg_color=F8F0FF&title_color=C8A2C8&text_color=6D6875&hide_border=true" />
+  still filling this space with future projects... ✧
 </p>
 
 ---
